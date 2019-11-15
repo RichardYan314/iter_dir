@@ -15,12 +15,12 @@ def iter_dir(root, fdir, ffile, level):
   # do folders first
   for dir in root.iterdir():
     if dir.is_dir():
-      yield fdir(dir, level)
+      yield fdir(dir, fdir, ffile, level)
 
   # then do files
   for file in root.iterdir():
     if file.is_file():
-      yield ffile(file, level)
+      yield ffile(file, ffile, level)
 
 
 def is_archive(dir):
@@ -29,34 +29,44 @@ def is_archive(dir):
   else:
     return False, dir.parts[-1]
 
-def print_dir(dir, level):
+def print_dir(dir, fdir, ffile, level):  
   indent = ' ' * 4 * (level)
   
   isArchive, dirname = is_archive(dir)
   print('{}{}'.format(indent, dirname))
-  return not isArchive
+  if isArchive:
+    return []
+  else:
+    return [item for item in iter_dir(dir, fdir, ffile, level+1)]
 
-
-def print_file(file, level):
+def print_file(file, ffile, level):
   subindent = ' ' * 4 * (level)
   print('{}{}'.format(subindent, file.parts[-1]))
 
 
-def dir2Tree(dir, level):
+def dir2Tree(dir, fdir, ffile, level):
   isArchive, dirname = is_archive(dir)
   if isArchive:
     return dirname
   else:
-    return {"name": dirname, "children": [item for item in iter_dir(dir, dir2Tree, file2Tree, level+1)]}
+    return {"name": dirname, "children": [item for item in iter_dir(dir, fdir, ffile, level+1)]}
 
-
-def file2Tree(file, level):
+def file2Tree(file, ffile, level):
   return file.parts[-1]
 
 
 if __name__ == "__main__":
+  if '-p' in sys.argv:
+    funcs = (print_dir, print_file)
+  else:
+    funcs = (dir2Tree, file2Tree)
+  
   p = path.Path(os.path.dirname(os.path.realpath(__file__)))
-  print(json.dumps(
-    [item for item in iter_dir(p, dir2Tree, file2Tree, 0)
-          if not ((item["name"] if isinstance(item, dict) else item) in [".git", ".gitignore", __file__])],
-    indent=4, ensure_ascii=False))
+  rst = [item for item in iter_dir(p, *funcs, 0)]
+          
+  if '-p' in sys.argv:
+    pass
+  else:
+    print(json.dumps(
+      rst,
+      indent=4, ensure_ascii=False))
