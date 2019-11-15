@@ -11,15 +11,37 @@ import json
 #import re
 #lcc_re = re.compile("(([A-Z]+(\\.[A-Z0-9]*)*))( - [^-]*)+")
 
+ignores = [
+  '.git/',
+  '.gitignore',
+  'diff*',
+  'printTree.py',
+  'Library-of-Ashurbanipal/',
+  '**/*.archive/',
+]
+
+from fnmatch import fnmatch, translate
+def ignore(path):
+  for ignore in ignores:
+    if path.match(ignore):
+      return True
+  return False
+  
+def is_archive(dir):
+  if dir.parts[-1].endswith(".archive"):
+    return True, dir.parts[-1][:-8]
+  else:
+    return False, dir.parts[-1]
+
 def iter_dir(root, fdir, ffile, level):
   # do folders first
   for dir in root.iterdir():
-    if dir.is_dir():
+    if dir.is_dir() and not ignore(dir):
       yield fdir(dir, fdir, ffile, level)
 
   # then do files
   for file in root.iterdir():
-    if file.is_file():
+    if file.is_file() and not ignore(file):
       yield ffile(file, ffile, level)
 
 
