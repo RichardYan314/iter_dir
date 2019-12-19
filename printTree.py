@@ -89,6 +89,15 @@ if __name__ == "__main__":
   if '-p' in sys.argv:
     pass
   else:
+    import datetime
+    
+    rst = {
+      'meta': {
+        'last-modified': str(datetime.datetime.today())
+      },
+      'data': rst
+    }
+    
     print(json.dumps(
       rst,
       indent=4, ensure_ascii=False))
