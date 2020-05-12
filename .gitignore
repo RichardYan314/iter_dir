@@ -1,4 +1,4 @@
-*
+/*
 !.gitignore
+!__tree
 !printTree.py
-!tree.json

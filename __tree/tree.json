@@ -1,0 +1,1546 @@
+{
+    "meta": {
+        "last-modified": "2020-05-11 23:19:28.980870"
+    },
+    "data": [
+        {
+            "name": "A - General Works",
+            "children": []
+        },
+        {
+            "name": "B - Philosophy. Psychology. Religion",
+            "children": [
+                {
+                    "name": "B - Philosophy (General)",
+                    "children": [
+                        {
+                            "name": "B790-5802 - By period - Modern",
+                            "children": [
+                                {
+                                    "name": "B808-849 - Special topics and schools of philosophy",
+                                    "children": [
+                                        {
+                                            "name": "B818 - Evolution. Holism",
+                                            "children": [
+                                                "B818 .H9 UNCERTAIN - 天演论.pdf",
+                                                "B818 .H9 UNCERTAIN - 天演论.txt",
+                                                "B818 .H9 UNCERTAIN - 天演论.url"
+                                            ]
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "BC - Logic",
+                    "children": [
+                        {
+                            "name": "BC131-135 - Symbolic and mathematical logic",
+                            "children": [
+                                "BC135 .C3142 1958x LOCC - Carnap, Rudolf - introduction to symbolic logic and its applications.pdf",
+                                "cf. BC199 .T9 Type theory"
+                            ]
+                        },
+                        {
+                            "name": "BC171-199 - Special topics",
+                            "children": [
+                                {
+                                    "name": "BC199.A-Z - Other special topics, A-Z",
+                                    "children": [
+                                        {
+                                            "name": "BC199.M6 - Modality",
+                                            "children": [
+                                                "BC199 .M6 zx - Venema, Yde - Lectures on the modal μ-calculus.pdf",
+                                                "BC199 .M6H85 1998x QUEENSU - Hughes, G. E; Cresswell, M. J - A new introduction to modal logic.pdf",
+                                                "BC199 .M6H85 2005x QUEENSU - Hughes, G. E; Cresswell, M. J - A new introduction to modal logic.pdf",
+                                                "Cf. QA9.46 Mathematical logic"
+                                            ]
+                                        }
+                                    ]
+                                }
+                            ]
+                        },
+                        {
+                            "name": "BC60-99 - General works, treatises, and advanced textbooks",
+                            "children": [
+                                {
+                                    "name": "BC71 - English",
+                                    "children": [
+                                        "BC71 .G37 2017 - Harry J. Gensler - Introduction to Logic - 3rd ed.pdf"
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "BD - Speculative philosophy",
+                    "children": [
+                        {
+                            "name": "BD143-237 - Epistemology.  Theory of knowledge",
+                            "children": [
+                                {
+                                    "name": "BD181 - Origins and sources of knowledge",
+                                    "children": [
+                                        "BD181.R38 1995 - Fagin, Ronald; Halpern, Joseph Y.; Moses, Yoram; Vardi, Moshe Y. - Reasoning About Knowledge.pdf"
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "BL-BQ - Religion (General). Hinduism, Judaism, Islam, Buddhism",
+                    "children": [
+                        {
+                            "name": "BL1-2790 - Religions. Mythology. Rationalism",
+                            "children": [
+                                {
+                                    "name": "BL660-2680 - History and principles of religions",
+                                    "children": [
+                                        {
+                                            "name": "BL1600-1695 - Semitic religions",
+                                            "children": [
+                                                {
+                                                    "name": "BL1620-1625 - Assyro-Babylonian",
+                                                    "children": [
+                                                        {
+                                                            "name": "BL1620 - General works",
+                                                            "children": [
+                                                                "BL1620 .A33 2011 - Alan Lenzi - Reading Akkadian Prayers and Hymns _ an Introduction.pdf"
+                                                            ]
+                                                        }
+                                                    ]
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "BR-BX - Christianity, Bible",
+                    "children": [
+                        {
+                            "name": "BS - The Bible",
+                            "children": [
+                                {
+                                    "name": "BS701-1830 - Old Testament",
+                                    "children": [
+                                        {
+                                            "name": "BS1110-1199 - Works about the Old Testament",
+                                            "children": [
+                                                {
+                                                    "name": "BS1160-1191.5 - Criticism and interpretation",
+                                                    "children": [
+                                                        {
+                                                            "name": "BS1180 - Historic critic",
+                                                            "children": [
+                                                                "BS1180 .P83 1969x LoCC - Pritchard, James Bennett - Ancient Near Eastern texts relating to the Old Testament - Third Edition with Supplement (2).pdf",
+                                                                "BS1180 .P83 1969x LoCC - Pritchard, James Bennett - Ancient Near Eastern texts relating to the Old Testament - Third Edition with Supplement.pdf",
+                                                                "BS1180 .P83 1969x LoCC Frag - Pritchard, James Bennett - Ancient Near Eastern texts relating to the Old Testament _ Enuma Elish English Speiser and Grayson - Third Edition with Supplement.pdf",
+                                                                "cf. BS1236 - Comparative theology of Genesis"
+                                                            ]
+                                                        }
+                                                    ]
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "name": "BS1200-1830 - Special parts of the Old Testament",
+                                            "children": [
+                                                {
+                                                    "name": "BS1236 - Historical books - Pentateuch (Torah) - Texts - Genesis",
+                                                    "children": [
+                                                        "BS1236 .H4 zx LoCC Frag - Heidel, Alexander - The Babylonian Genesis, the story of the creation - Enuma Elish.pdf"
+                                                    ]
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "name": "BS825-1013 - Modern texts and versions",
+                                            "children": [
+                                                {
+                                                    "name": "BS895.J4-.J42 - Jewish Publication Society (Table BS2)",
+                                                    "children": [
+                                                        {
+                                                            "name": "BS895 .J4 2004x LoCC - Berlin, Adele; Brettler, Marc Zvi; Fishbane, Michael - The Jewish Study Bible _ Featuring The Jewish Publication Society TANAKH Translation.archive",
+                                                            "children": []
+                                                        },
+                                                        "BS895 .J4 1998x - Hebrew-English Tanakh _ The Jewish Bible (2).pdf",
+                                                        "BS895 .J4 1998x - Hebrew-English Tanakh _ The Jewish Bible.pdf",
+                                                        "BS895 .J4 2004x LoCC - Berlin, Adele; Brettler, Marc Zvi; Fishbane, Michael - The Jewish Study Bible _ Featuring The Jewish Publication Society TANAKH Translation.pdf"
+                                                    ]
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "C - Auxiliary Sciences of History",
+            "children": []
+        },
+        {
+            "name": "D - World History and History of Europe, Asia, Africa, Australia, New Zealand, etc",
+            "children": [
+                {
+                    "name": "D1-2027 - History (General)",
+                    "children": [
+                        {
+                            "name": "D(204)-(475) - Modern history, 1453-",
+                            "children": [
+                                {
+                                    "name": "D299-(475) - 1789-",
+                                    "children": [
+                                        {
+                                            "name": "D839-860 - Post-war history (1945-    )",
+                                            "children": [
+                                                {
+                                                    "name": "D860 - 1989- - Political and diplomatic history",
+                                                    "children": [
+                                                        "D860.H86 1996 - Huntington, Samuel P. - The Clash of Civilizations and the Remaking of World Order (1).pdf",
+                                                        "D860.H86 1996 - Huntington, Samuel P. - The Clash of Civilizations and the Remaking of World Order (2).pdf",
+                                                        "D860.H86 1996 - Huntington, Samuel P. - The Clash of Civilizations and the Remaking of World Order (3).pdf",
+                                                        "Huntington, Samuel P - The clash of civilizations and the remaking of world order-Simon & Schuster (2011).epub"
+                                                    ]
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                }
+                            ]
+                        },
+                        {
+                            "name": "D51-90 - Ancient history",
+                            "children": [
+                                {
+                                    "name": "D52 - Sources and documents",
+                                    "children": [
+                                        "D52 .C85 1876x UNCERTAIN - Cory, Isaac Preston - Cory's Ancient fragments of the Phœnician, Carthaginian, Babylonian, Egyptian and other authors.pdf",
+                                        "D52 .C93 1828x UNCERTAIN - Cory, Issac Preston - The ancient fragments.pdf"
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "DS11-937 - History of Asia",
+                    "children": [
+                        {
+                            "name": "DS101-151 - Israel (Palestine). The Jews",
+                            "children": [
+                                {
+                                    "name": "DS114-128.2 - History",
+                                    "children": [
+                                        "世界历史文库_以色列史】_东方出版中心.pdf"
+                                    ]
+                                }
+                            ]
+                        },
+                        {
+                            "name": "DS251-326 - Iran (Persia)",
+                            "children": [
+                                {
+                                    "name": "DS270-318.85 - History",
+                                    "children": [
+                                        "DS272 . D36 2010x UNCERTAIN - 埃尔顿・丹尼尔 - 伊朗史.pdf"
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "E - History of the Americas",
+            "children": []
+        },
+        {
+            "name": "F - History of the Americas",
+            "children": []
+        },
+        {
+            "name": "G - Geography, Anthropology, and Recreation",
+            "children": []
+        },
+        {
+            "name": "H - Social Sciences",
+            "children": [
+                {
+                    "name": "HB - Economic theory; Demography",
+                    "children": [
+                        {
+                            "name": "HB.151-180 - General works",
+                            "children": [
+                                "HB171.5 .M263 2009x UNCERTAIN CHN - 经济学原理第5版(宏观分册).pdf",
+                                "HB171.5 .M263 2009x UNCERTAIN CHN - 经济学原理第5版(微观分册).pdf"
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "HM - Sociology",
+                    "children": [
+                        {
+                            "name": "HM.621-656 - Culture",
+                            "children": [
+                                {
+                                    "name": "HM.626-631 - Cultural evolution. Social evolution",
+                                    "children": [
+                                        {
+                                            "name": "HM206 .D48 zx UNCERTAIN CHN AUD - 枪炮病菌与钢铁 - 飘在云中的纱.archive",
+                                            "children": []
+                                        },
+                                        "HM206 .D48 zx UNCERTAIN CHN - 枪炮、病菌与钢铁 人类社会的命运 世界人文系列丛书.开放人文 美 贾雷德·戴蒙德.azw3"
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "J - Political Science",
+            "children": [
+                {
+                    "name": "JC - Political theory.  The state.  Theories of the state",
+                    "children": [
+                        {
+                            "name": "JC131-273   Modern state",
+                            "children": [
+                                "JC179 .R814 2007x LoCC - Rousseau, Jean-Jacques - 论人与人之间不平等的起因和基础.pdf"
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "K - Law",
+            "children": [
+                {
+                    "name": "K - Law in general. Comparative and uniform law. Jurisprudence",
+                    "children": [
+                        {
+                            "name": "K.201-487 - Jurisprudence.  Philosophy and theory of law",
+                            "children": [
+                                {
+                                    "name": "K230.A-Z - General works. By author or title, A-Z",
+                                    "children": [
+                                        "K230 .F842 S8 1998 - Peter Suber - The Case of the Speluncean Explorers _ Nine New Opinions.pdf",
+                                        "K230 .F842 S8 2009x CNH - Peter Suber - The Case of the Speluncean Explorers _ Nine New Opinions.pdf",
+                                        "K230 .F842 S8 2015x CHN - Peter Suber - The Case of the Speluncean Explorers _ Nine New Opinions.pdf"
+                                    ]
+                                },
+                                {
+                                    "name": "K237-264   The concept of law",
+                                    "children": [
+                                        "K240 .B63 1998x LoCC CHN - Bodenheimer, Edgar - 法理学：法律哲学与法律方法.pdf",
+                                        "法理学导论-舒国滢.pdf"
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "KNQ - China (People's Republic, 1949- )",
+                    "children": [
+                        {
+                            "name": "2013年华成法硕基础班宪法胡锦光.archive",
+                            "children": []
+                        },
+                        "KNQ3800 .Z43364 zx LoCC - 刑法的私塾.pdf"
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "L - Education",
+            "children": []
+        },
+        {
+            "name": "M - Music",
+            "children": []
+        },
+        {
+            "name": "N - Fine Arts",
+            "children": []
+        },
+        {
+            "name": "P - Language and Literature",
+            "children": [
+                {
+                    "name": "P - Philology. Linguistics",
+                    "children": [
+                        {
+                            "name": "P101-410 - Language. Linguistic theory. Comparative grammar",
+                            "children": [
+                                {
+                                    "name": "P101-107 - General works",
+                                    "children": [
+                                        "P106 .C56 2006x LoCC - Chomsky, Noam - Language and Mind.pdf"
+                                    ]
+                                },
+                                {
+                                    "name": "P121-149 - Science of language (Linguistics)",
+                                    "children": []
+                                },
+                                {
+                                    "name": "P201-299 - Comparative grammar",
+                                    "children": [
+                                        {
+                                            "name": "P201 - General works",
+                                            "children": [
+                                                "P201 .J55 1924x UNCERTAIN - Otto Jespersen - The Philosophy of Grammar.pdf",
+                                                "P201 .J55 1988x UNCERTAIN CHN - 奥托.叶斯柏森，何勇等译 - 语法哲学.pdf"
+                                            ]
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "PG2001 - Russian Language",
+                    "children": [
+                        {
+                            "name": "黑龙江大学俄罗斯语.archive",
+                            "children": []
+                        }
+                    ]
+                },
+                {
+                    "name": "PJ - Oriental Philology and Literature",
+                    "children": [
+                        {
+                            "name": "PJ3101-3971 - Assyriology. Akkadian",
+                            "children": [
+                                {
+                                    "name": "PJ3231-3595 - Language",
+                                    "children": [
+                                        {
+                                            "name": "PJ3251 - Grammar - Descriptive",
+                                            "children": [
+                                                "(Teach Yourself) Martin Worthington - Complete Babylonian_ A Teach Yourself Guide (Teach Yourself_ Level 4)  -McGraw-Hill (2010).pdf",
+                                                "PJ3251 .C3 2002x LoCC - Caplice, Richard - Introduction to Akkadian.djvu",
+                                                "PJ3251 .H84 1996x LoCC - John Huehnergard - A Grammar of Akkadian (2).pdf",
+                                                "PJ3251 .H84 1996x LoCC - John Huehnergard - A Grammar of Akkadian (3).pdf",
+                                                "PJ3251 .H84 1996x LoCC - John Huehnergard - A Grammar of Akkadian.djvu",
+                                                "PJ3251 .H84 1996x LoCC - John Huehnergard - A Grammar of Akkadian.pdf",
+                                                "PJ3251 .H85 1998 - John Huehnergard - Key to a Grammar of Akkadian.pdf",
+                                                "吴宇虹 - 古代西亚塞姆语和印欧语楔形文字和语言.pdf"
+                                            ]
+                                        },
+                                        {
+                                            "name": "PJ3525 - Lexicography - Dictionaries - Assyro-Babylonian-English; English-Assyro-Babylonian",
+                                            "children": [
+                                                "PJ3525 .C66 2000x LoCC - Jeremy Black, Andrew George, Nicholas Postgate - A Concise Dictionary of Akkadian.pdf"
+                                            ]
+                                        }
+                                    ]
+                                },
+                                {
+                                    "name": "PJ3601-3971 - Literature. Inscriptions",
+                                    "children": [
+                                        {
+                                            "name": "PJ3771 - Texts Inscriptions. Clay tablets, etc. - Poetry - Epic - Particular works",
+                                            "children": [
+                                                "PJ3711 .B7 1901x LoCC - - Cuneiform texts from Babylonian tablets, &c., in the British Museum - Part XIII (2).pdf",
+                                                "PJ3711 .B7 1901x LoCC - - Cuneiform texts from Babylonian tablets, &c., in the British Museum - Part XIII.pdf",
+                                                "PJ3771 .E5 1902x LoCC - King, Leonard William - The seven tablets of creation _ or The Babylonian and Assyrian legends concerning the creation of the world and of mankind - Vol. I Engligh Translations, etc.pdf",
+                                                "PJ3771 .E5 1902x LoCC - King, Leonard William - The seven tablets of creation _ or The Babylonian and Assyrian legends concerning the creation of the world and of mankind - Vol. II Supplementary Texts.pdf",
+                                                "PJ3771 .G6 .G46 .v1 2003x LoCC - George, A. R. - The Babylonian Gilgamesh Epic_ introduction, critical edition and cuneiform texts - Volume 1.pdf",
+                                                "PJ3771 .G6 .G46 .v2 2003x LoCC - George, A. R. - The Babylonian Gilgamesh Epic_ Introduction, critical edition and cuneiform texts - Volume 2.pdf",
+                                                "PJ3771 .G6 H4 1949x LoCC - Heidel, Alexander - The Gilgamesh epic and Old Testament parallels.pdf"
+                                            ]
+                                        },
+                                        {
+                                            "name": "PJ3951-3971 - Translations",
+                                            "children": [
+                                                {
+                                                    "name": "PJ3951 - Collections",
+                                                    "children": [
+                                                        "PJ3951 .B44 1996 - Foster, Benjamin Read - Before the Muses _ An Anthology of Akkadian Literature, Volume 1 _ Archaic, Classical, Mature _ Second edition.pdf",
+                                                        "PJ3951 .B44 1996 - Foster, Benjamin Read - Before the Muses _ An Anthology of Akkadian Literature, Volume 2 _ Mature, Late - Second edition.pdf",
+                                                        "PJ3951 .B44 1996 FRAG - Foster, Benjamin R. - Before the muses  an anthology of Akkadian literature - Enuma Elish.pdf",
+                                                        "PJ3951 .B44 2005 - Foster, Benjamin Read - Before The Muses _ An Anthology Of Akkadian Literature - Third Edition.pdf",
+                                                        "The Enuma Elish.pdf"
+                                                    ]
+                                                },
+                                                "Philippe Talon - The Standard Babylonian Creation Myth _ Enuma Elish.pdf"
+                                            ]
+                                        }
+                                    ]
+                                }
+                            ]
+                        },
+                        {
+                            "name": "PJ4001-4091 - Sumerian",
+                            "children": [
+                                {
+                                    "name": "PJ4013 - Language - Grammar - Descriptive",
+                                    "children": [
+                                        "A Descriptive Grammar of Sumerian.pdf",
+                                        "PJ4013 .H38 2000x LoCC - Hayes, John Lewis  - A Manual of Sumerian Grammar and Texts.pdf",
+                                        "PJ4013 .T47 1984x LoCC - Thomsen, Marie-Louise - The Sumerian Language _ An Introduction to Its History and Grammatical Structure - 3rd ed..pdf"
+                                    ]
+                                },
+                                {
+                                    "name": "PJ4017 - Language - Dictionaries - Other",
+                                    "children": [
+                                        "PJ4037 .H35 zx LoCC - Halloran, John Alan - Sumerian Lexicon.pdf"
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "PL501-699 - Japanese Language",
+                    "children": [
+                        {
+                            "name": "みんなの日本語.archive",
+                            "children": []
+                        },
+                        "新编日语语法教程.pdf",
+                        "日语概说.pdf"
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "Q - Science",
+            "children": [
+                {
+                    "name": "Q - Science (General)",
+                    "children": [
+                        {
+                            "name": "Q300-390 - Cybernetics",
+                            "children": [
+                                {
+                                    "name": "Q325-342 - Self-organizing systems. Conscious automata",
+                                    "children": [
+                                        {
+                                            "name": "Q334-342 - Artificial intelligence",
+                                            "children": [
+                                                {
+                                                    "name": "Q335 - General works, treatises, and textbooks",
+                                                    "children": [
+                                                        "Q335 .M86 2008 - Munakata, Toshinori - Fundamentals Of The New Artificial Intelligence _ Neural, Evolutionary, Fuzzy and More.pdf"
+                                                    ]
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "QA - Mathematics",
+                    "children": [
+                        {
+                            "name": "QA1-43 General",
+                            "children": [
+                                {
+                                    "name": "QA39 - General works - Textbooks - Intermediate (without calculus)",
+                                    "children": [
+                                        "QA39.2.G733 1994 - Graham, Ronald L.; Knuth, Donald E.; Patashnik, Oren - Concrete Mathematics _ A Foundation for Computer Science - 2nd Edition.pdf"
+                                    ]
+                                },
+                                {
+                                    "name": "QA41 - Formulas, notation, abbreviations",
+                                    "children": [
+                                        "QA41 .P42 1908x LoCC - Peano, G. - Formulario Mathematico.pdf"
+                                    ]
+                                },
+                                {
+                                    "name": "QA9-10.3 - Mathematical logic",
+                                    "children": [
+                                        {
+                                            "name": "QA9.5 - Combinatory logic and lambda calculus",
+                                            "children": []
+                                        },
+                                        {
+                                            "name": "QA9.54 - Proof systems",
+                                            "children": [
+                                                "Curry-Howard From The Ground Up.pdf"
+                                            ]
+                                        },
+                                        {
+                                            "name": "QA9.8 - Metamathematics",
+                                            "children": [
+                                                "GEB 一条永恒的金带.chm",
+                                                "QA9.8 .H63 1980 - Hofstadter, Douglas R. - Gödel, Escher, Bach _ An Eternal Golden Braid.djvu",
+                                                "QA9.8 .H63 1980 - Hofstadter, Douglas R. - Gödel, Escher, Bach _ An Eternal Golden Braid.pdf",
+                                                "QA9.8 .H63 1996x CHN - 《哥德尔 艾舍尔 巴赫：集异璧之大成》GEB_Goedel_Escher_Bach.pdf",
+                                                "QA9.8 .H63 zx - Hofstadter, Douglas R. - Gödel, Escher, Bach _ An Eternal Golden Braid.pdf"
+                                            ]
+                                        },
+                                        {
+                                            "name": "QA9.A5-Z - General works, treatises, and textbooks",
+                                            "children": [
+                                                {
+                                                    "name": "QA9 .W5 zx LoCC - Whitehead, Alfred North; Russell, Bertrand - Principia mathematica, vol.1-3",
+                                                    "children": [
+                                                        "Whitehead A.N., Russell B. Principia mathematica, vol.1 (1ed., CUP, 1910)(KA)(ISBN 052106791X).djvu",
+                                                        "Whitehead A.N., Russell B. Principia mathematica, vol.2 (2ed., CUP, 1927)(KA)(ISBN 052106791X)(T)(768s)_MAml_.djvu",
+                                                        "Whitehead A.N., Russell B. Principia mathematica, vol.3 (2ed., CUP, 1927)(KA)(ISBN 052106791X)(T)(496s)_MAml_.djvu"
+                                                    ]
+                                                },
+                                                "QA9 .N37 2014x LoCC - Nederpelt, Rob; Geuvers, Herman - Type Theory and Formal Proof.pdf"
+                                            ]
+                                        }
+                                    ]
+                                }
+                            ]
+                        },
+                        {
+                            "name": "QA150-272 - Algebra",
+                            "children": [
+                                {
+                                    "name": "QA154 - Textbooks - Advanced",
+                                    "children": [
+                                        "(Graduate studies in mathematics 104) Aluffi, Paolo - Algebra_ Chapter 0-American Mathematical Society (2009).djvu",
+                                        "(Graduate Studies in Mathematics) Paolo Aluffi - Algebra_ Chapter 0-American Mathematical Society (2009).djvu",
+                                        "(Graduate Studies in Mathematics, Volume 104) Paolo Aluffi - Algebra_ Chapter 0-American Mathematical Society (2009).djvu",
+                                        "Aluffi P. - Algebra, Chapter 0, Version 2009.01.18 (2009).pdf",
+                                        "QA154.2 .K55 2016x LoCC - Knapp, Anthony W. - Basic Algebra.pdf",
+                                        "QA154.3.A527 2009 - (Graduate Studies in Mathematics 154) Paolo Aluffi - Algebra_ Chapter 0.pdf",
+                                        "QA154.3.A527 2009 - (Graduate Studies in Mathematics) Paolo Aluffi - Algebra_ Chapter 0 (2).pdf",
+                                        "QA154.3.A527 2009 - (Graduate Studies in Mathematics) Paolo Aluffi - Algebra_ Chapter 0.pdf"
+                                    ]
+                                },
+                                {
+                                    "name": "QA162 - Abstract algebra",
+                                    "children": [
+                                        "QA162 .P56 2010 - Pinter, Charles C. - A book of abstract algebra.pdf"
+                                    ]
+                                },
+                                {
+                                    "name": "QA164-167 - Combinatorics. Combinatorial analysis",
+                                    "children": [
+                                        {
+                                            "name": "QA164.8 - Enumeration problems. Generating functions",
+                                            "children": [
+                                                "QA164.8 .B46 2003x LoCC - Benjamin, Arthur T.; Quinn, Jennifer J. - Proofs that really count _ the art of combinatorial proof.djvu",
+                                                "QA164.8 .B46 2003x LoCC - Benjamin, Arthur T.; Quinn, Jennifer J. - Proofs that really count _ the art of combinatorial proof.pdf"
+                                            ]
+                                        }
+                                    ]
+                                },
+                                {
+                                    "name": "QA169 - Homological algebra",
+                                    "children": [
+                                        {
+                                            "name": "Steve Awodey - Category Theory [Lecture notes]-LMU (2016).archive",
+                                            "children": []
+                                        },
+                                        "Gillibert, Jean; Retoré, Christian - Category theory, logic and formal linguistics some connections, old and new.pdf",
+                                        "QA169 .A96 2005x LoCC - Awodey, Steve - Category Theory.pdf",
+                                        "QA169 .A96 2010x LoCC - Awodey, Steve - (Oxford Logic Guides 52)  - Category Theory-Oxford University Press (2010).pdf",
+                                        "QA169 .L355 1997 - Lawvere, F. W. - CONCEPTUAL MATHEMATICS A FIRST INTRODUCTION TO CATEGORIES.pdf",
+                                        "QA169 .M33 1998 - Mac Lane, Saunders - Categories for the working mathematician.pdf",
+                                        "QA169 .R54 2014x LoCC - Riehl, Emily - Category Theory in Context.pdf"
+                                    ]
+                                },
+                                {
+                                    "name": "QA171.5 - Lattice theory",
+                                    "children": [
+                                        "QA171.5 .D38 2012x LOCC - Davey, B.A.; Priestley, H.A. - Introduction to Lattices and Order.pdf"
+                                    ]
+                                },
+                                {
+                                    "name": "QA248 - Foundations of arithmetic. Set theory. Transfinite numbers",
+                                    "children": [
+                                        {
+                                            "name": "QA248 - General works",
+                                            "children": [
+                                                "QA248 .T37 1987 - (Colloquium Publications Amer Mathematical Soc) Tarski, Alfred; Givant, Steven - A formalization of set theory without variables.djvu"
+                                            ]
+                                        }
+                                    ]
+                                },
+                                {
+                                    "name": "QA251 - Universal algebra",
+                                    "children": [
+                                        "QA251 .B87 LOCC - Burris, Stanley; Sankappanavar, H. P. - A Course in Universal Algebra.pdf"
+                                    ]
+                                },
+                                {
+                                    "name": "QA267-268 - Machine theory. Abstract machines. Abstract automata",
+                                    "children": [
+                                        {
+                                            "name": "QA267 - General works, treatises, and textbooks",
+                                            "children": [
+                                                "cf. QA76.9.M35 - Mathematics, Computer",
+                                                "Introduction to Theory of Computation.pdf",
+                                                "QA267 .H56 2006 - Hopcroft, John E. - Introduction to Automata Theory, Languages, and Computation - 3rd.pdf",
+                                                "QA267 .S56 2013x LoCC - Sipser, Michael - Introduction to the theory of computation - 3rd.pdf"
+                                            ]
+                                        },
+                                        {
+                                            "name": "QA267.7 - Computational complexity. Kolmogorov complexity",
+                                            "children": [
+                                                "QA267.7 .L5 2008 - Li, Ming; Vitányi, Paul - An Introduction To Kolmogorov Complexity and its applications.pdf",
+                                                "QA267.7.146 1998 - Immerman, Neil - (Graduate Texts in Computer Science) - Descriptive Complexity.pdf"
+                                            ]
+                                        }
+                                    ]
+                                }
+                            ]
+                        },
+                        {
+                            "name": "QA273-280 - Probabilities. Mathematical statistics",
+                            "children": []
+                        },
+                        {
+                            "name": "QA299.6-433 - Analysis",
+                            "children": [
+                                {
+                                    "name": "QA300 - Analysis - General works, treatises, and textbooks",
+                                    "children": [
+                                        "QA300 .Z67 zx UNCERTAIN CHN - 卓里奇 - 数学分析(第1卷).pdf",
+                                        "QA300 .Z67 zx UNCERTAIN CHN - 卓里奇 - 数学分析(第2卷).pdf",
+                                        "QA300 .Z6713 2004x LoCC - Zorich, Vladimir A. - Mathematical Analysis I.pdf",
+                                        "QA300 .Z6713.5 2004x LoCC - Zorich, Vladimir A. - Mathematical Analysis II.pdf"
+                                    ]
+                                },
+                                {
+                                    "name": "QA303 - Analysis - Calculus - General works, treatises, and textbooks",
+                                    "children": [
+                                        {
+                                            "name": "MIT calculus.archive",
+                                            "children": []
+                                        }
+                                    ]
+                                },
+                                {
+                                    "name": "QA331 - Analysis - Theory of functions - General works, treatises, and advanced textbooks",
+                                    "children": [
+                                        "QA331.7 .N44 1997x LOCC - Needham, Tristan - Visual Complex Analysis (1).pdf",
+                                        "QA331.7 .N44 1997x LOCC - Needham, Tristan - Visual Complex Analysis (2).pdf",
+                                        "QA331.7 .N44 1997x LOCC - Needham, Tristan - Visual Complex Analysis (3).pdf",
+                                        "QA331.7 .N44 1997x LOCC - Needham, Tristan - Visual Complex Analysis (4).pdf",
+                                        "QA331.7 .N44 1997x LOCC - Needham, Tristan - Visual Complex Analysis (5).pdf",
+                                        "QA331.7 .N44 1997x LOCC - Needham, Tristan - Visual Complex Analysis (6).pdf"
+                                    ]
+                                }
+                            ]
+                        },
+                        {
+                            "name": "QA440-699 - Geometry. Trigonometry. Topology",
+                            "children": [
+                                {
+                                    "name": "QA451-469 - Elementary geometry",
+                                    "children": [
+                                        {
+                                            "name": "QA459 - Problems, exercises, examinations",
+                                            "children": [
+                                                "QA459 .S32713 1985x LoCC CHN - 笹部 貞市郎 - 解析几何学辞典 问题解法.pdf"
+                                            ]
+                                        },
+                                        {
+                                            "name": "QA466 - Famous Problems - General works",
+                                            "children": [
+                                                "QA466 .B64 2008x LoCC CHN - 波尔德 - 著名几何问题及其解法.pdf"
+                                            ]
+                                        }
+                                    ]
+                                }
+                            ]
+                        },
+                        {
+                            "name": "QA71-90 Instruments and machines",
+                            "children": [
+                                {
+                                    "name": "QA75.5-76.95 - Electronic computers. Computer science",
+                                    "children": [
+                                        {
+                                            "name": "QA76.6 - Programming",
+                                            "children": [
+                                                {
+                                                    "name": "QA76.6 - General works",
+                                                    "children": [
+                                                        {
+                                                            "name": "QA76.6 .K64 LoCC - The art of computer programming.archive",
+                                                            "children": []
+                                                        },
+                                                        "QA76.6 .A255 2004x LoCC - 计算机程序的构造和解释.pdf",
+                                                        "QA76.6 .B28 1998 - Back, Ralph-Johan, von Wright, Joakim - (Graduate Texts in Computer Science) - Refinement Calculus _ A Systematic Introduction.pdf",
+                                                        "QA76.6 .S61547 1994 - Smith, Carl H. - (Graduate Texts in Computer Science) - A Recursive Introduction to the Theory of Computation.pdf"
+                                                    ]
+                                                },
+                                                {
+                                                    "name": "QA76.62 - Functional programming",
+                                                    "children": [
+                                                        "Barendregt, Henk - Introduction to generalized type systems.pdf",
+                                                        "Barendregt, Henk; Barendsen, Erik - Introduction to Lambda Calculus.pdf",
+                                                        "Charguéraud, Arthur - Pretty-Big-Step Semantics.pdf",
+                                                        "Chlipala, Adam - Formal Reasoning About Programs.pdf",
+                                                        "Felleisen, Matthias; Flatt, Matthew - Programming Languages and Lambda Calculi.pdf",
+                                                        "Findler, Robert Bruce; Klein, Casey - Redex - Practical Semantics Engineering.pdf",
+                                                        "Giménez, Eduardo; Castéran, Pierre - A Tutorial on [Co-]Inductive Types in Coq.pdf",
+                                                        "hal-01094195 - Paulin-Mohring, Christine - Introduction to the Calculus of Inductive Constructions.pdf",
+                                                        "Huet, Gérard - Induction Principles Formalized in the Calculus of Constructions.pdf",
+                                                        "inria-00076024 - Coquand, T.; Huet, Gérard - The calculus of constructions.pdf",
+                                                        "Luo, Zhaohui - An Extended Calculus of Constructions.pdf",
+                                                        "Mendler, Paul Francis - Inductive Definition in Type Theory.pdf",
+                                                        "Moreau, Luc - An Introduction to Continuations.pdf",
+                                                        "Pfenning, Frank; Paulin-Mohring, Christine - Inductively Defined Types in the Calculus of Constructions.pdf",
+                                                        "QA76.62 .T46 1999x LoCC - Tompson, Simon - Type Theory & Functional Programming.pdf",
+                                                        "QA76.7 .H377 2012x LoCC - Harper, Robert - Practical Foundations for Programming Languages.pdf"
+                                                    ]
+                                                },
+                                                {
+                                                    "name": "QA76.625 - Internet programming. Intranet programming",
+                                                    "children": [
+                                                        "QA76.625 .C35 2008 - Calvert, Kenneth L.; Donahoo, Michael J. - TCPIP sockets in Java  practical guide for programmers.pdf"
+                                                    ]
+                                                },
+                                                {
+                                                    "name": "QA76.63 - Logic programming",
+                                                    "children": [
+                                                        "QA76.63 .F75 2018 - Friedman, Daniel P.; Christiansen, David Thrane - The Little Typer.pdf",
+                                                        "QA76.63 B73 2005 LoCC - Bramer, Max A. - Logic Programming with Prolog.pdf"
+                                                    ]
+                                                },
+                                                {
+                                                    "name": "QA76.64 - Object-oriented programming and programs",
+                                                    "children": [
+                                                        {
+                                                            "name": "QA76.64 .C62 zx - Coad, Peter - Object-Oriented Programming.archive",
+                                                            "children": []
+                                                        },
+                                                        "QA76.64 .B66 2009x LoCC CHN - Booch, Grady - 面向对象分析与设计 第3版.pdf",
+                                                        "QA76.64 .O35 2006x LoCC CHN - O'Docherty, Mike - 面向对象分析与设计.pdf"
+                                                    ]
+                                                },
+                                                {
+                                                    "name": "QA76.642 - Parallel programming",
+                                                    "children": [
+                                                        "QA76.642 .S36 1997 - Schneider, Fred B. - (Graduate Texts in Computer Science) - On Concurrent Programming.djvu"
+                                                    ]
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "name": "QA76.7-73 - Programming languages",
+                                            "children": [
+                                                {
+                                                    "name": "QA76.7 General works",
+                                                    "children": [
+                                                        "Programming_Languages_and_Lambda_Calculi .pdf",
+                                                        "QA76.7 .F73 2001 - Friedman, Daniel P; Wand, Mitchell - Essentials of Programming Languages - 2nd.pdf",
+                                                        "QA76.7 .F73 2008 - Friedman, Daniel P.; Wand, Mitchell - Essentials of Programming Languages - 3rd (2).pdf",
+                                                        "QA76.7 .F73 2008 - Friedman, Daniel P.; Wand, Mitchell - Essentials of Programming Languages - 3rd.pdf",
+                                                        "QA76.7 .H55 1996 - Hindley, J. Roger - (Cambridge Tracts in Theoretical Computer Science 42) Basic Simple Type Theory.pdf",
+                                                        "QA76.7 .P54 2002 - Pierce, Benjamin C. - Types and Programming Languages.pdf",
+                                                        "QA76.7 .T38 xz LoCC CHN - 七周七语言—理解多种编程范型 (1).pdf",
+                                                        "QA76.7 .T38 xz LoCC CHN - 七周七语言—理解多种编程范型 (2).pdf",
+                                                        "QA76.7 .T38 xz LoCC CHN - 七周七语言—理解多种编程范型 (3).pdf"
+                                                    ]
+                                                },
+                                                {
+                                                    "name": "QA76.73 - Individual Languages",
+                                                    "children": [
+                                                        {
+                                                            "name": "QA76.73.C15 - C",
+                                                            "children": [
+                                                                "C11_ISO_IEC 9899_201x_n1570.pdf",
+                                                                "C程序设计语言(第二版)课后答案.doc",
+                                                                "dosbox+masm+debug+edit+link.rar",
+                                                                "MASM5.0.rar",
+                                                                "QA76.73.C15 P733 2005x LoCC CHN - Prata, Stephen - C Primer Plus(第五版)中文版.pdf",
+                                                                "[C程序设计(第四版)学习辅导].谭浩强.扫描版.pdf"
+                                                            ]
+                                                        },
+                                                        {
+                                                            "name": "QA76.73.C153 - C++",
+                                                            "children": [
+                                                                "QA76.73.C153 E247 2002x LoCC - Eckel, Bruce - Thinking in C++ 第二版.pdf",
+                                                                "QA76.73.C153 P72 2012x LoCC - Prata, Stephen - C++ Premer Plus 第六版.epub",
+                                                                "QA76.73.C153 P72 2012x LoCC - Prata, Stephen - C++ Premer Plus 第六版.pdf"
+                                                            ]
+                                                        },
+                                                        {
+                                                            "name": "QA76.73.E44 - Elixir",
+                                                            "children": [
+                                                                {
+                                                                    "name": "QA76.62 .T39 2014x LoCC - Thomas, David - Programming Elixir.archive",
+                                                                    "children": []
+                                                                },
+                                                                {
+                                                                    "name": "QA76.73.E75 H36 2017x LoCC - Hao, Benjamin Tan Wei - The little Elixir & OTP guidebook.archive",
+                                                                    "children": []
+                                                                },
+                                                                "QA76.73.E44 .S72 2014x LoCC - St. Laurent, Simon - Introducing Elixir  getting started in functional programming.pdf"
+                                                            ]
+                                                        },
+                                                        {
+                                                            "name": "QA76.73.E75 - ERLANG",
+                                                            "children": []
+                                                        },
+                                                        {
+                                                            "name": "QA76.73.H37 - Haskell",
+                                                            "children": [
+                                                                "QA76.73.H37 H88 2007x LoCC - Hutton, Graham - Programming in Haskell.pdf",
+                                                                "QA76.73.H37 L69 2013x LoCC - Lipovača, Miran - Haskell 趣学指南.pdf"
+                                                            ]
+                                                        },
+                                                        {
+                                                            "name": "QA76.73.J38 - Java",
+                                                            "children": [
+                                                                {
+                                                                    "name": "Java.Lynda.archive",
+                                                                    "children": []
+                                                                },
+                                                                {
+                                                                    "name": "Java语言程序设计.archive",
+                                                                    "children": []
+                                                                },
+                                                                "java.pdf",
+                                                                "QA76.73.J38 E25 zx LoCC CHN - Eckel, Bruce - Thinking in Java 第四版.pdf",
+                                                                "周志明 - 深入理解 Java 虚拟机 _ JVM 高级特性与最佳实践 - 2nd. ed..pdf"
+                                                            ]
+                                                        },
+                                                        {
+                                                            "name": "QA76.73.L23 - LISP",
+                                                            "children": [
+                                                                "QA76.73.L23 A44 1978x - Allen, John - Anatomy of LISP.djvu"
+                                                            ]
+                                                        },
+                                                        {
+                                                            "name": "QA76.73.M6 - ML",
+                                                            "children": [
+                                                                "Harper, Robert - Programming in Standard ML.pdf"
+                                                            ]
+                                                        },
+                                                        {
+                                                            "name": "QA76.73.P224 - PHP",
+                                                            "children": [
+                                                                "QA76.73.P224 G54 2011x LoCC - Gilmore, W. Jason - Beginning PHP and MySQL  from novice to professional.pdf"
+                                                            ]
+                                                        },
+                                                        {
+                                                            "name": "QA76.73.P76 - Prolog",
+                                                            "children": [
+                                                                "Blackburn, Patrick; Bos, Johan; Striegnitz, Kristina - Learn Prolog Now.pdf"
+                                                            ]
+                                                        },
+                                                        {
+                                                            "name": "QA76.73.P98 -Python",
+                                                            "children": [
+                                                                "QA76.73.P98 B42 2013x LoCC CHN - Beazley, David M.; Jones, Brain K. - Python Cookbook 第三版.pdf",
+                                                                "QA76.73.P98 C48 2016x LoCC CHN - Chun, Wesley - Core Python applications programming 第三版.pdf",
+                                                                "QA76.73.P98 C48 zx LoCC CHN - Chun, Wesley - Core Python applications programming 第二版.pdf",
+                                                                "QA76.73.P98 D694 2015x LoCC CHN - Downey, Allen - 像计算机科学家一样思考Python - 第2版.pdf",
+                                                                "QA76.73.P98 H446 zx LoCC CHN - Hellmann, Doug - The Python standard library by example.pdf",
+                                                                "QA76.73.P98 L877 2011x LoCC CHN - Lutz, Mark - Learning Python 第四版.pdf",
+                                                                "QA76.73.P98 L88 2015x LoCC CHN - Lutz, Mark - Programming Python 第四版上.pdf",
+                                                                "QA76.73.P98 L88 2015x LoCC CHN - Lutz, Mark - Programming Python 第四版下.pdf",
+                                                                "QA76.73.P98 L89 2015x LoCC CHN - Lutz, Mark - Python pocket reference 第五版.pdf",
+                                                                "QA76.73.P98 P57 2001x LoCC CHN - Pilgrim, Mark - Dive into Python 3.pdf",
+                                                                "QA76.73.P98 R36 zx LoCC CHN - Ramalho, Luciano - Fluent Python.pdf",
+                                                                "QA76.73.P98 S53 2013x LoCC CHN - Learn Python The Hard Way.pdf",
+                                                                "编写高质量代码 改善Python程序的91个建议.pdf"
+                                                            ]
+                                                        },
+                                                        {
+                                                            "name": "QA76.73.S34 - Scheme",
+                                                            "children": [
+                                                                "QA76.73.S34 F75 zx LoCC - Friedman, Daniel P. - The Little Schemer - 4th.pdf",
+                                                                "QA76.73.S34 F76 2005 - Friedman, Daniel P. - The Reasoned Schemer.pdf"
+                                                            ]
+                                                        },
+                                                        {
+                                                            "name": "QA76.73.X16 - X86 assembly language",
+                                                            "children": [
+                                                                "汇编语言_第2版（王爽）.pdf"
+                                                            ]
+                                                        },
+                                                        {
+                                                            "name": "QA76.73.Z99 - Unassigned",
+                                                            "children": [
+                                                                {
+                                                                    "name": "Idris",
+                                                                    "children": [
+                                                                        "QA76.62 .B73 2017x LoCC - Brady, Edwin- Type-Driven Development with Idris.pdf"
+                                                                    ]
+                                                                }
+                                                            ]
+                                                        }
+                                                    ]
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "name": "QA76.75-76.765 - Computer software",
+                                            "children": [
+                                                {
+                                                    "name": "QA76.758 - Software engineering",
+                                                    "children": []
+                                                },
+                                                {
+                                                    "name": "QA76.76.A-Z - Special topics, A-Z",
+                                                    "children": [
+                                                        {
+                                                            "name": "QA76.76.A65 - Application software",
+                                                            "children": [
+                                                                {
+                                                                    "name": "新版Android开发教程.archive",
+                                                                    "children": []
+                                                                }
+                                                            ]
+                                                        },
+                                                        {
+                                                            "name": "QA76.76.C672 - Computer games",
+                                                            "children": [
+                                                                {
+                                                                    "name": "QA76.76.C672 O39 zx - O'Hanlon, Martin - Adventures in Minecraft.archive",
+                                                                    "children": []
+                                                                }
+                                                            ]
+                                                        },
+                                                        {
+                                                            "name": "QA76.76.D47 - Development",
+                                                            "children": [
+                                                                "QA76.76.D47 M36515 2018x LoCC - Martin, Robert C. - Clean architecture  a craftsman's guide to software structure and design.pdf"
+                                                            ]
+                                                        },
+                                                        {
+                                                            "name": "QA76.76.O63 - Operating Systems",
+                                                            "children": [
+                                                                "于渊 - Orange's 一个操作系统的实现 (2).pdf",
+                                                                "于渊 - Orange's 一个操作系统的实现.pdf",
+                                                                "川合秀实 - 30天自制操作系统.iso",
+                                                                "川合秀实 - 30天自制操作系统.pdf"
+                                                            ]
+                                                        },
+                                                        {
+                                                            "name": "QA76.76.V47 - Verification and validation of software",
+                                                            "children": [
+                                                                "Appel, Andrew W. - Verifiable C.pdf",
+                                                                "QA76.76.V47 A67 2009 - Apt, Krzysztof R.; de Boer, Frank S.; Olderog, Ernst-Rüdiger - Verification Of Sequential And Concurrent programs.pdf"
+                                                            ]
+                                                        }
+                                                    ]
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "name": "QA76.9.A-Z - Other topics, A-Z",
+                                            "children": [
+                                                {
+                                                    "name": "QA76.9.A25 - Computer Security",
+                                                    "children": [
+                                                        {
+                                                            "name": "QA76.9.A25 M463 1997x LoCC - Menezes, Alfred J. - handbook of applied cryptography.archive",
+                                                            "children": []
+                                                        },
+                                                        {
+                                                            "name": "QA76.9.A25 S35 1999x LoCC CHN - Schneier, Bruce - Applied cryptography _ protocols, algorithms, and source code in C.archive",
+                                                            "children": []
+                                                        }
+                                                    ]
+                                                },
+                                                {
+                                                    "name": "QA76.9.A96 - Automatic theorem proving",
+                                                    "children": [
+                                                        "Paulin-Mohring, Christine - Introduction to the Coq proof-assistant for practical software verification.pdf",
+                                                        "QA76.9.A96 .F68 1996 - Fitting, Melvin - (Graduate Texts in Computer Science) - First-order logic and automated theorem proving.pdf",
+                                                        "QA76.9.A96 .F745 2015 - Friedman, Daniel P.; Eastlund, Carl - Little Prover.pdf",
+                                                        "QA76.9.A96 B47 2004x LoCC - Bertot, Yves; Castéran, Pierre - Interactive theorem proving and program development _ Coq'Art _ the calculus of inductive constructions.pdf",
+                                                        "QA76.9.A96S 63 1996 - Socher-Ambrosius, Rolf; Johann, Patricia - (Graduate Texts in Computer Science) - Deduction Systems.pdf"
+                                                    ]
+                                                },
+                                                {
+                                                    "name": "QA76.9.C643 - Computer organization",
+                                                    "children": [
+                                                        "QA76.9.C643.H36 2012 - Hamacher, Carl; Vranesic, Zvonko; Zaky, Safwat; Manjikian, Naraig - Computer organization And Embedded Systems - 6Ed.pdf"
+                                                    ]
+                                                },
+                                                {
+                                                    "name": "QA76.9.D3 - Database management",
+                                                    "children": [
+                                                        "Foundations of Databases The Logical Level.pdf",
+                                                        "QA76.9.D3 R4 2015x LoCC - Bailies, Peter; Hellerstein, Joseph M., Stonebraker, Michale - Readings in Database Systems - 5th edition.pdf",
+                                                        "QA76.9.D3A26 1995 - Abiteboul, Serge; Hull, Richard; Vianu, Victor - Foundations of Databases _ The Logical Level.pdf",
+                                                        "数据库系统概念中文版.pdf"
+                                                    ]
+                                                },
+                                                {
+                                                    "name": "QA76.9.M35 - Mathematics, Computer",
+                                                    "children": [
+                                                        "Goswami, D.; Krishna, K. V. - Formal Languages and Automata Theory-Notes.pdf",
+                                                        "karhumäki, juhani - Automata and Formal Languages.pdf",
+                                                        "QA76.9.M35 .R46 1997x QUEENS - (Advances in Computing Sciences) Brink, Chris; Kahl, Wolfram; Schmidt, Gunther - Relational Methods in Computer Science.pdf",
+                                                        "QA76.9.M35 N47 1997 - Nerode, Anil; Shore, Richard A. - (Graduate Texts in Computer Science) - Logic for Applications.pdf"
+                                                    ]
+                                                },
+                                                {
+                                                    "name": "QA76.9.O35 - Object-oriented methods",
+                                                    "children": [
+                                                        "Cf. QA76.64 Object-oriented programming",
+                                                        "QA76.9.O35 M38 2006x LoCC - McLaughlin, Brett - Head first object-oriented analysis and design.pdf"
+                                                    ]
+                                                },
+                                                {
+                                                    "name": "QA76.9.S88 - System design",
+                                                    "children": [
+                                                        "QA76.9.S88 L35 2003 - Leslie Lamport - Specifying Systems _ The TLA+ Language and Tools for Hardware and Software Engineers.pdf"
+                                                    ]
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "name": "QA76.95 - Use of electronic computers in mathematics",
+                                            "children": [
+                                                "QA76.95 .H35 2006x LoCC - O'Donnell, John - Discrete Mathematics Using a Computer.pdf"
+                                            ]
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "QB - Astronomy",
+                    "children": [
+                        {
+                            "name": "QB495-903 - Descriptive astronomy",
+                            "children": [
+                                {
+                                    "name": "QB500.5-785 - Solar system",
+                                    "children": [
+                                        {
+                                            "name": "QB521 - Sun - General works, treatises, and textbooks",
+                                            "children": [
+                                                "QB521 .G29 2008x CHN - 戴维·加芬克尔 - 通向宇宙的三级阶梯：从太阳到黑洞，再到神秘的暗物质.pdf",
+                                                "QB521.G29 2008 - Garfinkle, David; Garfinkle, Richard - Three Steps to the Universe_ From the Sun to Black Holes to the Mystery of Dark Matter.pdf"
+                                            ]
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "QC - Physics",
+                    "children": [
+                        {
+                            "name": "QC.23 - Mathematical Physics - Elementary textbooks",
+                            "children": [
+                                {
+                                    "name": "Landau L.D. & Lifschitz E.M.- Course of Theoretical Physics - Complete ( Vol 1-10).archive",
+                                    "children": []
+                                },
+                                {
+                                    "name": "朗道理论物理学教程（英文版）",
+                                    "children": [
+                                        "Vol.1 Mechanics Ed3.pdf",
+                                        "Vol.10 Physical Kinetics.pdf",
+                                        "Vol.2 The Classical Theory of Fields Ed4.pdf",
+                                        "Vol.3 Quantum Mechanics Non-relativistic Throry Ed3.pdf",
+                                        "Vol.4 Quantum Electrodynamics Ed2.pdf",
+                                        "Vol.5 Statistical Physics Prt1 Ed3.pdf",
+                                        "Vol.6 Fluid Mechanics Ed2.pdf",
+                                        "Vol.8 Electrodynamics of Continuous Media Ed2.pdf",
+                                        "Vol.9 Statistical Physics Prt2.pdf"
+                                    ]
+                                },
+                                {
+                                    "name": "朗道理论物理教程（高教版）",
+                                    "children": [
+                                        {
+                                            "name": "123",
+                                            "children": [
+                                                "朗道理论物理教程(卷01)-力学(第5版)-[俄]朗道＆栗弗席兹-李俊峰＆鞠国兴(译)-高等教育出版社-2007.pdf",
+                                                "朗道理论物理教程(卷08.老版)-连续介质电动力学(上册)-[苏]朗道＆栗弗席兹-人民教育出版社-1963.pdf",
+                                                "朗道理论物理教程(卷08.老版)-连续介质电动力学(下册)-[苏]朗道＆栗弗席兹-人民教育出版社-1963.pdf"
+                                            ]
+                                        }
+                                    ]
+                                },
+                                {
+                                    "name": "费曼物理学讲义",
+                                    "children": [
+                                        "费恩曼物理学讲义  第1卷  新千年版 [（美）费恩曼，（美）莱顿，（美）桑兹著][上海科学技术出版社][2013.05][557页].pdf",
+                                        "费恩曼物理学讲义  第2卷  新千年版 [（美）费恩曼，（美）莱顿，（美）桑兹著][上海科学技术出版社][2013.04][602页].pdf",
+                                        "费恩曼物理学讲义  第3卷  新千年版 [（美）费恩曼，（美）莱顿，（美）桑兹著][上海科学技术出版社].pdf",
+                                        "费恩曼物理学讲义(第1卷·新千年版·英文版)-[美]费恩曼＆莱顿＆桑兹-基础书籍出版社(BASIC BOOKS)-2010.pdf",
+                                        "费恩曼物理学讲义(第2卷·新千年版·英文版)-[美]费恩曼＆莱顿＆桑兹-基础书籍出版社(BASIC BOOKS)-2010.pdf",
+                                        "费恩曼物理学讲义(第3卷·新千年版·英文版)-[美]费恩曼＆莱顿＆桑兹-基础书籍出版社(BASIC BOOKS)-2010.pdf"
+                                    ]
+                                },
+                                {
+                                    "name": "高中物理",
+                                    "children": [
+                                        "高中物理笔记.doc",
+                                        "高中物理课堂听课笔记大全.doc"
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "QD - Chemistry",
+                    "children": [
+                        {
+                            "name": "QD1-65 - General",
+                            "children": [
+                                {
+                                    "name": "QD39 - Addresses, essays, lectures",
+                                    "children": [
+                                        "QD39 .F2 1908x LOCC - Faraday, Michael - A Chemical History of a Candle.pdf",
+                                        "QD39 .F2 2004x LOCC - (Modern History Sourcebook) Faraday, Michael - The Chemical History of A Candle.pdf",
+                                        "QD39 .F2 2005x LOCC - Faraday, Michael - The Chemical History Of A Candle.pdf"
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "QH301-705.5 - Biology (General)",
+                    "children": [
+                        {
+                            "name": "QH331 Philosophy of biology",
+                            "children": [
+                                "QH331 .S3557 LoCC CHN - Schrödinger, Erwin - [生命是什么].(奥)埃尔温·薛定谔.扫描版.pdf"
+                            ]
+                        },
+                        {
+                            "name": "QH359-425 - Evolution",
+                            "children": [
+                                {
+                                    "name": "QH361 - History",
+                                    "children": [
+                                        "QH361 .D39 2010x LoCC CHN - Dawkins, Richard - The ancestor's tale _ a pilgrimage to the dawn of life _ 祖先的故事.pdf"
+                                    ]
+                                },
+                                {
+                                    "name": "QH366 - General works, treatises, and textbooks",
+                                    "children": []
+                                }
+                            ]
+                        },
+                        {
+                            "name": "QH426-470 - Genetics",
+                            "children": [
+                                {
+                                    "name": "QH437 - Popular works",
+                                    "children": [
+                                        "QH437 .D38 2016x LoCC CHN - Dawkins, Richard - 自私的基因.pdf"
+                                    ]
+                                }
+                            ]
+                        },
+                        "道金斯科学经典系列 自私的基因 盲眼钟表匠 魔鬼的牧师 套装共三册.pdf"
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "R - Medicine",
+            "children": []
+        },
+        {
+            "name": "S - Agriculture",
+            "children": []
+        },
+        {
+            "name": "T - Technology",
+            "children": [
+                {
+                    "name": "TK.5105 - Data transmission systems",
+                    "children": [
+                        {
+                            "name": "TK.5105.5 - Computer networks",
+                            "children": [
+                                {
+                                    "name": "TK5105.55 .S74 zx LoCC CHN - Stevens, W. Richard - TCPIP illustrated",
+                                    "children": [
+                                        {
+                                            "name": "TCP-IP详解卷1：协议",
+                                            "children": [
+                                                "TCP-IP详解卷1：协议.pdf"
+                                            ]
+                                        },
+                                        {
+                                            "name": "TCP-IP详解卷2：实现",
+                                            "children": [
+                                                "TCP-IP详解卷2：实现.pdf"
+                                            ]
+                                        },
+                                        {
+                                            "name": "TCP-IP详解卷3：TCP+事务协议、HTTP、NNTP和UNIX域协议+",
+                                            "children": [
+                                                "TCP-IP详解卷3：TCP 事务协议、HTTP、NNTP和UNIX域协议 .pdf"
+                                            ]
+                                        }
+                                    ]
+                                },
+                                "TK5105.585 .K69 2005x LoCC - Kozierok, Charles M. - The TCPIP guide.pdf",
+                                "户根勤 - 网络是怎样连接的.pdf"
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "TK.7888.4 - Digital Computers - Circuits",
+                    "children": [
+                        "潘松 - VHDL实用教程.pdf",
+                        "黄任 - VHDL入门·解惑·经典实例·经验总结.pdf"
+                    ]
+                },
+                {
+                    "name": "TK9900-9971 - Electricity for amateurs.  Amateur constructors' manuals",
+                    "children": [
+                        {
+                            "name": "TK9956 - Radio. Wireless telephone - General works",
+                            "children": [
+                                "TK9956 .S52 2013x LoCC - Silver, Ward - Ham Radio for Dummies.pdf"
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "TX - HOME economics",
+                    "children": [
+                        {
+                            "name": "TX642-840 - Cooking",
+                            "children": [
+                                {
+                                    "name": "TX651 - General works -Treatieses",
+                                    "children": [
+                                        "TX651 .M27 2004x LOCC - McGee, Harold - On food and cooking_ the science and lore of the kitchen.pdf"
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "U - Military Science",
+            "children": []
+        },
+        {
+            "name": "V - Naval Science",
+            "children": []
+        },
+        {
+            "name": "Z - Bibliography, Library Science, and General Information Resources",
+            "children": []
+        },
+        {
+            "name": "~ uncategorized",
+            "children": [
+                {
+                    "name": "山海经",
+                    "children": [
+                        "中国历代名著全译丛书.036.山海经全译.袁珂.译注.贵州人民出版社.9207.一版二刷.pdf",
+                        "山海经全译（袁珂译注）.pdf"
+                    ]
+                },
+                {
+                    "name": "朱德熙",
+                    "children": [
+                        "[语法讲义].朱德熙.扫描版.pdf",
+                        "朱德熙《语法讲义》.pdf"
+                    ]
+                },
+                {
+                    "name": "深淵を覗き見たひと",
+                    "children": [
+                        "1.avi",
+                        "10.avi",
+                        "11.avi",
+                        "12.avi",
+                        "13.avi",
+                        "14.avi",
+                        "15.avi",
+                        "16.avi",
+                        "17.avi",
+                        "18.avi",
+                        "19.avi",
+                        "2.avi",
+                        "20.avi",
+                        "21.avi",
+                        "22.avi",
+                        "23.avi",
+                        "24.avi",
+                        "3.avi",
+                        "4.avi",
+                        "5.avi",
+                        "6.avi",
+                        "7.avi",
+                        "8.avi",
+                        "9.avi",
+                        "COVER.png",
+                        "oriental-lossey.rar",
+                        "track (1).wav",
+                        "track (10).wav",
+                        "track (11).wav",
+                        "track (12).wav",
+                        "track (13).wav",
+                        "track (14).wav",
+                        "track (15).wav",
+                        "track (16).wav",
+                        "track (17).wav",
+                        "track (18).wav",
+                        "track (19).wav",
+                        "track (2).wav",
+                        "track (20).wav",
+                        "track (21).wav",
+                        "track (22).wav",
+                        "track (23).wav",
+                        "track (24).wav",
+                        "track (3).wav",
+                        "track (4).wav",
+                        "track (5).wav",
+                        "track (6).wav",
+                        "track (7).wav",
+                        "track (8).wav",
+                        "track (9).wav",
+                        "深淵を覗き見たひと.pdf",
+                        "深淵を覗き見たひと.txt",
+                        "深淵を覗き見たひと_Page_01.png",
+                        "深淵を覗き見たひと_Page_02.png",
+                        "深淵を覗き見たひと_Page_03.png",
+                        "深淵を覗き見たひと_Page_04.png",
+                        "深淵を覗き見たひと_Page_05.png",
+                        "深淵を覗き見たひと_Page_06.png",
+                        "深淵を覗き見たひと_Page_07.png",
+                        "深淵を覗き見たひと_Page_08.png",
+                        "深淵を覗き見たひと_Page_09.png",
+                        "深淵を覗き見たひと_Page_10.png",
+                        "深淵を覗き見たひと_Page_11.png",
+                        "深淵を覗き見たひと_Page_12.png",
+                        "深淵を覗き見たひと_Page_13.png",
+                        "深淵を覗き見たひと_Page_14.png",
+                        "深淵を覗き見たひと_Page_15.png",
+                        "深淵を覗き見たひと_Page_16.png",
+                        "深淵を覗き見たひと_Page_17.png",
+                        "深淵を覗き見たひと_Page_18.png",
+                        "深淵を覗き見たひと_Page_19.png",
+                        "深淵を覗き見たひと_Page_20.png",
+                        "深淵を覗き見たひと_Page_21.png",
+                        "深淵を覗き見たひと_Page_22.png",
+                        "深淵を覗き見たひと_Page_23.png",
+                        "深淵を覗き見たひと_Page_24.png",
+                        "深淵を覗き見たひと_Page_25.png",
+                        "深淵を覗き見たひと_Page_26.png",
+                        "深淵を覗き見たひと_Page_27.png",
+                        "深淵を覗き見たひと_Page_28.png",
+                        "深淵を覗き見たひと_Page_29.png",
+                        "深淵を覗き見たひと_Page_30.png",
+                        "深淵を覗き見たひと_Page_31.png",
+                        "深淵を覗き見たひと_Page_32.png",
+                        "深淵を覗き見たひと_Page_33.png",
+                        "深淵を覗き見たひと_Page_34.png",
+                        "深淵を覗き見たひと_Page_35.png",
+                        "深淵を覗き見たひと_Page_36.png",
+                        "深淵を覗き見たひと_Page_37.png",
+                        "深淵を覗き見たひと_Page_38.png",
+                        "深淵を覗き見たひと_Page_39.png",
+                        "深淵を覗き見たひと_Page_40.png",
+                        "深淵を覗き見たひと_Page_41.png",
+                        "深淵を覗き見たひと_Page_42.png",
+                        "深淵を覗き見たひと_Page_43.png"
+                    ]
+                },
+                {
+                    "name": "破解古文字的故事",
+                    "children": [
+                        "破解古文字的故事 （华章微课堂系列） - 司洋 著.azw3",
+                        "破解古文字的故事-司洋.mobi"
+                    ]
+                },
+                "(SANTAG. Arbeiten und Untersuchungen zur Keilschriftkunde 5) Jeremy Black, Andrew George, Nicholas Postgate - A Concise Dictionary of Akkadian-Harrassowitz (2000).pdf",
+                "Barak, Boaz - Introduction to Theoretical Computer Science.pdf",
+                "Basic Amateur Radio Course - Toronto Emergency Communication (EmComm) Group.pdf",
+                "ciaa2010.pdf",
+                "D3 Graph Theory.url",
+                "Gallier, Jean; Quaintance, Jocelyn - Algebra, Topology, Differential Calculus, and Optimization Theory For Computer Science and Machine Learning.pdf",
+                "GordonLambdaCalculus.ps",
+                "Hammurabi - The Code of Hammurabi-Feedbooks (1790).pdf",
+                "http-users.abo.fij-boling-cdes-op_on_autop_on_aut.pdf",
+                "King, Leonard W. - The Code of Hammurabi.pdf",
+                "Modeling and Control of Discrete-event Dynamic Systems.pdf",
+                "Mysticism_First_Edition.PDF",
+                "Peano, Giuseppe - De Latino sine Flexione; Principio de Permanentia.pdf",
+                "Peano, Giuseppe - I Principii di Geometria Logicamente Esposti.pdf",
+                "Peano, Ioseph - Arithmetices Principia Nova Methodo Exposita.pdf",
+                "pg35803-images.epub",
+                "pg35803-images.mobi",
+                "Quantum computing for the very curious.url",
+                "Simply Logical - Intelligent Reasoning by Example.url",
+                "[夜观星空].(加)特伦斯路迪金森.高清扫描版.rar",
+                "[政法笔记]冯象.pdf",
+                "[近东开辟史诗].饶宗颐.扫描版.pdf",
+                "《现代汉语词类研究》.郭锐.扫描版.pdf",
+                "图书馆学导论+于良芝.pdf",
+                "常凯申文集（第一卷）.pdf",
+                "模式分类 Richard O.Duda 中译本.pdf",
+                "模式识别与机器学习_非常适合初学者.pdf",
+                "汉字古音手册_郭锡良.pdf",
+                "统计学习基础 数据挖掘、推理与预测 中文版.pdf",
+                "统计学习理论的本质 .pdf",
+                "统计学习理论的本质.pdf",
+                "统计学习理论的本质_张学工译.pdf",
+                "罗素哲学：关于其发展之研究 (艾兰・乌德著).pdf",
+                "论人与人之间不平等的起因和基础-卢梭 (1).epub",
+                "论人与人之间不平等的起因和基础-卢梭 (1).mobi",
+                "论人与人之间不平等的起因和基础-卢梭.epub",
+                "论人与人之间不平等的起因和基础-卢梭.mobi",
+                "论人与人之间不平等的起因和基础-卢梭.txt",
+                "诺顿星图手册.pdf"
+            ]
+        },
+        {
+            "name": "~~ CMU",
+            "children": [
+                {
+                    "name": "15-317 Constructive Logic",
+                    "children": []
+                },
+                {
+                    "name": "CS 15-458_858_ Discrete Differential Geometry",
+                    "children": []
+                },
+                "index.html"
+            ]
+        },
+        "favicon-assyria.ico",
+        "favicon-assyria.png",
+        "favicon-royallibrary.ico",
+        "favicon-royallibrary.png",
+        "favicon.ico",
+        "hello.php",
+        "Library-of-Ashurbanipal.html",
+        "printTree.bat",
+        "robot.txt"
+    ]
+}

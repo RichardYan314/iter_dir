@@ -1,0 +1,68 @@
+.file-list, .file-list ul{
+    list-style-type: none;
+    font-size:1em;
+    line-height:1.8em;
+    margin-left:20px;
+    padding-left:18px;
+    border-left:1px dotted #aaa;
+}
+.file-list li{
+    position: relative;
+    padding-left:25px;
+}
+.file-list li a{
+    text-decoration: none;
+    color:#c9cacc;  
+}
+.file-list .nav:before{
+    list-style-type: none;
+    /*  https://github.com/FortAwesome/Font-Awesome/issues/11946#issuecomment-352070196 */
+    font-weight: 900; 
+    font-family: "Font Awesome 5 Free"; /* This is the correct font-family*/
+    display:block;
+    content:'\f15c';
+    position:absolute;
+    top:0px;
+    left:0px;
+    width:20px;
+    height:20px;
+    font-size:1.3em;
+    color:#cacbcd;
+}
+
+.file-list .folder-root{
+    list-style-type: none;
+}
+.file-list .folder-root a{
+    text-decoration:none;
+}
+
+.file-list .folder-root>.nav:before{
+    color:#FFD04E;
+}
+.file-list .folder-root.closed>.nav:before{
+    content: "\f07b";
+}
+.file-list .folder-root.open>.nav:before{
+    content: "\f07c";
+}
+.file-list .folder-root.empty>.nav:before{
+    content: "\f65d";
+}
+.file-list .folder-root.archive>.nav:before{
+    content: "\f187";
+}
+
+.file-list .folder-root ul{
+    transition: all .3s ease-in-out;
+    overflow:hidden;
+}
+.file-list .folder-root.closed>ul{
+   opacity:0;
+   max-height:0px;
+}
+.file-list .folder-root.open>ul{
+   opacity:1;
+   display:block;
+   /*max-height:1000px;*/
+}

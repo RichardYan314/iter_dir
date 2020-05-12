@@ -16,11 +16,13 @@ ignores = [
   '.gitignore',
   'diff*',
   'printTree.py',
-  'Library-of-Ashurbanipal/',
-  '**/*.archive/',
+  '~~ CMU/*/*',
+  '~~ CMU/*.whtt',
+  '~~ CMU/*.gif',
+  '~~~ Library-of-Ashurbanipal/',
 ]
 
-from fnmatch import fnmatch, translate
+from fnmatch import fnmatch
 def ignore(path):
   for ignore in ignores:
     if path.match(ignore):
@@ -29,7 +31,7 @@ def ignore(path):
   
 def is_archive(dir):
   if dir.parts[-1].endswith(".archive"):
-    return True, dir.parts[-1][:-8]
+    return True, dir.parts[-1]#[:-8]
   else:
     return False, dir.parts[-1]
 
@@ -45,31 +47,25 @@ def iter_dir(root, fdir, ffile, level):
       yield ffile(file, ffile, level)
 
 
-def is_archive(dir):
-  if dir.parts[-1].endswith(".archive"):
-    return True, dir.parts[-1][:-8]
-  else:
-    return False, dir.parts[-1]
-
 def print_dir(dir, fdir, ffile, level):  
   indent = ' ' * 4 * (level)
   
   isArchive, dirname = is_archive(dir)
-  print('{}{}'.format(indent, dirname))
+  #print('{}{}'.format(indent, dirname))
   if isArchive:
     return []
   else:
     return [item for item in iter_dir(dir, fdir, ffile, level+1)]
 
 def print_file(file, ffile, level):
-  subindent = ' ' * 4 * (level)
+  subindent = ' ' * 4 * (level) * 0
   print('{}{}'.format(subindent, file.parts[-1]))
 
 
 def dir2Tree(dir, fdir, ffile, level):
   isArchive, dirname = is_archive(dir)
   if isArchive:
-    return dirname
+    return {"name": dirname, "children": []}
   else:
     return {"name": dirname, "children": [item for item in iter_dir(dir, fdir, ffile, level+1)]}
 
@@ -83,7 +79,8 @@ if __name__ == "__main__":
   else:
     funcs = (dir2Tree, file2Tree)
   
-  p = path.Path(os.path.dirname(os.path.realpath(__file__)))
+  root = sys.argv[1] if len(sys.argv) >= 2 else os.path.dirname(os.path.realpath(__file__))
+  p = path.Path(root)
   rst = [item for item in iter_dir(p, *funcs, 0)]
           
   if '-p' in sys.argv:
